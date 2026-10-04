@@ -9,4 +9,5 @@ def temperature_agent(temp):
 temperature = 105
 action = temperature_agent(temperature)
 
+
 print(action)
